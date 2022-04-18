@@ -14,7 +14,7 @@ http://localhost:7098/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-confi
 2. go to terminal and type :
        docker compose up
 3. verify cassandra instance in docker desktop on 9042
-4. go back to terminal and type
+4. open a new terminal window and type
        docker ps
 5. copy container id 
 6. type : 
@@ -46,10 +46,13 @@ http://localhost:7098/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-confi
 ### Access services using a web browser
 When the application is running, you can use a web browser to access the REST service. 
 
-15. use swagger to validate api
-    http://localhost:7098/swaggessr-ui/index.html?configUrl=/v3/api-docs/swagger-config
+15. use open-api url to validate api
+    http://localhost:7098/stocks-api.html
+    
+### Thank You !!
 
-Improvement could be done :
-     Caching 
-     Data Validation 
+Improvement could be done 
+     - security 
+     - Caching 
+     - Data Validation 
      

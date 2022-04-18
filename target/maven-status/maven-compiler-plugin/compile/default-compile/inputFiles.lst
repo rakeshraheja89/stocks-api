@@ -1,0 +1,10 @@
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/persistence/repository/StockRepository.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/service/StockServiceImpl.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/util/StocksBuilder.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/dto/StockDto.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/spi/StockSPI.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/exception/StockNotFoundException.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/controller/StockController.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/StockApplication.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/constant/StocksConstant.java
+/Applications/Sonu/interview-2022/coding/payconiq/stocks-api/src/main/java/com/pc/stock/persistence/domain/Stock.java
